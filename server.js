@@ -13,6 +13,7 @@ import cors from "cors";
 import formidableMiddleware from "express-formidable-v2";
 import bodyParser from "body-parser";
 import path from "path";
+import (fileURLToPath} from "url";
 //import Booking from "./models/booking.js";
 //import Booking from "./models/booking.js";
 //configure env
@@ -20,6 +21,10 @@ dotenv.config();
 
 //databse config
 connectDB();
+
+//esmodulefix
+const __filename=fileURLToPath(import.meta.url);
+const __dirname=path,dirname(__filename);
 
 //rest object
 const app = express();
