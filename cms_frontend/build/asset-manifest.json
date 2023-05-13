@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36d28442.css",
+    "main.js": "/static/js/main.af8911d9.js",
+    "static/js/787.01a2e0f9.chunk.js": "/static/js/787.01a2e0f9.chunk.js",
+    "static/media/heroImg.png": "/static/media/heroImg.199c02cc46480cb69eac.png",
+    "static/media/aboutus.jpg": "/static/media/aboutus.8450314160ab53a8b8b4.jpg",
+    "static/media/hyperlocal.png": "/static/media/hyperlocal.5fdb5c00b275596c71d0.png",
+    "static/media/LowShippingRates2X.png": "/static/media/LowShippingRates2X.32db851891f204b0c886.png",
+    "static/media/SameDayDelivery2x.png": "/static/media/SameDayDelivery2x.77c3b9dcaeca8ffd67d6.png",
+    "static/media/MultiplePaymentModes2x.png": "/static/media/MultiplePaymentModes2x.571b18de781c7442267b.png",
+    "static/media/fastdelivery.png": "/static/media/fastdelivery.f80231507f96d5dc242e.png",
+    "static/media/ImprovedCustomerExperience2x.png": "/static/media/ImprovedCustomerExperience2x.0dd923a67371510ff6ab.png",
+    "static/media/LiveOrderTracking2x.png": "/static/media/LiveOrderTracking2x.c7bdca2b813bdeea2482.png",
+    "static/media/speedpost.jpg": "/static/media/speedpost.0fad723b9e9b38c83ab6.jpg",
+    "static/media/laptop.png": "/static/media/laptop.71e1087aa6bf9fd95a73.png",
+    "static/media/contactus.jpg": "/static/media/contactus.f527a227e76c012577e7.jpg",
+    "static/media/easypick.png": "/static/media/easypick.064dfce37f6f01bc960c.png",
+    "static/media/ontimedelivery.png": "/static/media/ontimedelivery.ae955b88e170b65e4cef.png",
+    "static/media/bannertracking.png": "/static/media/bannertracking.485f5e7b42b442cc908f.png",
+    "index.html": "/index.html",
+    "main.36d28442.css.map": "/static/css/main.36d28442.css.map",
+    "main.af8911d9.js.map": "/static/js/main.af8911d9.js.map",
+    "787.01a2e0f9.chunk.js.map": "/static/js/787.01a2e0f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d28442.css",
+    "static/js/main.af8911d9.js"
+  ]
+}
