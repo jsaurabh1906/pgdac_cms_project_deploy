@@ -36,7 +36,7 @@ app.use(morgan("dev"));
 app.use(formidableMiddleware());
 app.use(bodyParser.json({ extende: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, "../cms_frontend/build")));
+app.use(express.static(path.join(__dirname, "./cms_frontend/build")));
 //routes
 app.use("/api/auth", authRoutes);
 app.use("/api/office", officeRoutes);
@@ -116,7 +116,7 @@ app.use("/api/booking", bookingRoutes);
 //   res.send("<h1>Welcome to ASP COURIERS</h1>");
 // });
 app.use("*", function (req, res) {
-  res.sendFile(path.join(__dirname, "../cms_frontend/build/index.html"));
+  res.sendFile(path.join(__dirname, "./cms_frontend/build/index.html"));
 });
 //PORT
 const PORT = process.env.PORT || 8080;
