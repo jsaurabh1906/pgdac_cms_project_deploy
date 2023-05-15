@@ -13,7 +13,7 @@ import cors from "cors";
 import formidableMiddleware from "express-formidable-v2";
 import bodyParser from "body-parser";
 import path from "path";
-import (fileURLToPath} from "url";
+import {fileURLToPath} from "url";
 //import Booking from "./models/booking.js";
 //import Booking from "./models/booking.js";
 //configure env
